@@ -1,4 +1,4 @@
 1 - create command
-2 - edit command
+2 - update command
 3 - delete command
 
